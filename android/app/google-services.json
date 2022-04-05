@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643927440808",
+    "project_id": "city-queen-fadbb",
+    "storage_bucket": "city-queen-fadbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643927440808:android:821a59497e2df52a46b19d",
+        "android_client_info": {
+          "package_name": "app.softgrow.city_queen_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643927440808-oretgn2ouj7746vs52om03lhemb9ap1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.softgrow.city_queen_user",
+            "certificate_hash": "d0b2e63c722a623f7a7660d783b4ebafe3fa48a0"
+          }
+        },
+        {
+          "client_id": "643927440808-44vr8d0cnscap0edrkvvskue7f9lci0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDclcAWgF4p-SgePiq-DZTMcgjUdAKVPYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643927440808-44vr8d0cnscap0edrkvvskue7f9lci0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1603 @@
+{
+  "allText": [
+    {
+      "textId": "FILTER",
+      "languageTextList": [
+        {
+          "en": "FILTER"
+        },
+        {
+          "ar": "تصفية"
+        }
+      ]
+    },
+    {
+      "textId": "APPLY",
+      "languageTextList": [
+        {
+          "en": "apply"
+        },
+        {
+          "ar": "تطبيق"
+        }
+      ]
+    },
+    {
+      "textId": "CANCEL",
+      "languageTextList": [
+        {
+          "en": "cancel"
+        },
+        {
+          "ar": "الغاء"
+        }
+      ]
+    },
+ 
+
+
+    
+    {
+      "textId": "Language",
+      "languageTextList": [
+        {
+          "en": "Language"
+        },
+        {
+          "ar": "اللغة"
+        }
+      ]
+    },
+    {
+      "textId": "Choose Language",
+      "languageTextList": [
+        {
+          "en": "Choose Language"
+        },
+        {
+          "ar": "إختار اللغة"
+        }
+      ]
+    },
+    {
+      "textId": "All Products",
+      "languageTextList": [
+        {
+          "en": "All Products"
+        },
+        {
+          "ar": "جميع المنتجات"
+        }
+      ]
+    },
+    {
+      "textId": "No Products Found!",
+      "languageTextList": [
+        {
+          "en": "No Products Found!"
+        },
+        {
+          "ar": "لا توجد منتجات"
+        }
+      ]
+    },
+    {
+      "textId": "Sign Out",
+      "languageTextList": [
+        {
+          "en": "SIGN OUT"
+        },
+        {
+          "ar": "تسجيل الخروج"
+        }
+      ]
+    },
+    {
+      "textId": "HOME",
+      "languageTextList": [
+        {
+          "en": "HOME"
+        },
+        {
+          "ar": "الشاشة الرئيسية"
+        }
+      ]
+    },
+    {
+      "textId": "BRANCHES",
+      "languageTextList": [
+        {
+          "en": "BRANCHES"
+        },
+        {
+          "ar": "الفروع"
+        }
+      ]
+    },
+    {
+      "textId": "Branch",
+      "languageTextList": [
+        {
+          "en": "Branch"
+        },
+        {
+          "ar": "الفرع"
+        }
+      ]
+    },
+    {
+      "textId": "CATEGORIES",
+      "languageTextList": [
+        {
+          "en": "CATEGORIES"
+        },
+        {
+          "ar": "الأقسام"
+        }
+      ]
+    },
+    {
+      "textId": "More Details",
+      "languageTextList": [
+        {
+          "en": "More Details"
+        },
+        {
+          "ar": "تفاصيل أكثر"
+        }
+      ]
+    },
+    {
+      "textId": "Choose Address",
+      "languageTextList": [
+        {
+          "en": "Choose Address"
+        },
+        {
+          "ar": "إختار عنوان"
+        }
+      ]
+    },
+    {
+      "textId": "Please choose that you want",
+      "languageTextList": [
+        {
+          "en": "Please choose that you want"
+        },
+        {
+          "ar": "الرجاء إختيار ما تريد"
+        }
+      ]
+    },
+    {
+      "textId": "Categories",
+      "languageTextList": [
+        {
+          "en": "Categories"
+        },
+        {
+          "ar": "الأقسام"
+        }
+      ]
+    },
+    {
+      "textId": "PRODUCTS",
+      "languageTextList": [
+        {
+          "en": "PRODUCTS"
+        },
+        {
+          "ar": "المنتجات"
+        }
+      ]
+    },
+    {
+      "textId": "Products",
+      "languageTextList": [
+        {
+          "en": "Products"
+        },
+        {
+          "ar": "منتجات"
+        }
+      ]
+    },
+    {
+      "textId": "Information",
+      "languageTextList": [
+        {
+          "en": "Information"
+        },
+        {
+          "ar": "معلومات"
+        }
+      ]
+    },
+    {
+      "textId": "MY CART",
+      "languageTextList": [
+        {
+          "en": "MY CART"
+        },
+        {
+          "ar": "عربتى"
+        }
+      ]
+    },
+    {
+      "textId": "MY ORDERS",
+      "languageTextList": [
+        {
+          "en": "MY ORDERS"
+        },
+        {
+          "ar": "طلباتى"
+        }
+      ]
+    },
+    {
+      "textId": "FAVOURITES",
+      "languageTextList": [
+        {
+          "en": "FAVOURITES"
+        },
+        {
+          "ar": "المفضلة"
+        }
+      ]
+    },
+    {
+      "textId": "WALLET",
+      "languageTextList": [
+        {
+          "en": "WALLET"
+        },
+        {
+          "ar": "المحفظة"
+        }
+      ]
+    },
+    {
+      "textId": "PROFILE",
+      "languageTextList": [
+        {
+          "en": "PROFILE"
+        },
+        {
+          "ar": "الملف الشخصى"
+        }
+      ]
+    },
+    {
+      "textId": "NOTIFICATIONS",
+      "languageTextList": [
+        {
+          "en": "NOTIFICATIONS"
+        },
+        {
+          "ar": "الإشعارات"
+        }
+      ]
+    },
+    {
+      "textId": "CHAT",
+      "languageTextList": [
+        {
+          "en": "CHAT"
+        },
+        {
+          "ar": "محادثة"
+        }
+      ]
+    },
+    {
+      "textId": "LANGUAGES",
+      "languageTextList": [
+        {
+          "en": "LANGUAGES"
+        },
+        {
+          "ar": "اللغات"
+        }
+      ]
+    },
+    {
+      "textId": "HELP & SUPPORT",
+      "languageTextList": [
+        {
+          "en": "HELP & SUPPORT"
+        },
+        {
+          "ar": "المساعدة والدعم"
+        }
+      ]
+    },
+    {
+      "textId": "Help & Support",
+      "languageTextList": [
+        {
+          "en": "Help & Support"
+        },
+        {
+          "ar": "المساعدة والدعم"
+        }
+      ]
+    },
+    {
+      "textId": "Contact Us",
+      "languageTextList": [
+        {
+          "en": "Contact Us"
+        },
+        {
+          "ar": "تواصل معنا"
+        }
+      ]
+    },
+    {
+      "textId": "CONTACT US",
+      "languageTextList": [
+        {
+          "en": "CONTACT US"
+        },
+        {
+          "ar": "تواصل معنا"
+        }
+      ]
+    },
+    {
+      "textId": "ABOUT US",
+      "languageTextList": [
+        {
+          "en": "ABOUT US"
+        },
+        {
+          "ar": "معلومات عنا"
+        }
+      ]
+    },
+    {
+      "textId": "About Us",
+      "languageTextList": [
+        {
+          "en": "About Us"
+        },
+        {
+          "ar": "معلومات عنا"
+        }
+      ]
+    },
+    {
+      "textId": "DELIVERY INFO",
+      "languageTextList": [
+        {
+          "en": "DELIVERY INFO"
+        },
+        {
+          "ar": "معلومات التوصيل"
+        }
+      ]
+    },
+    {
+      "textId": "Delivery Info",
+      "languageTextList": [
+        {
+          "en": "Delivery Info"
+        },
+        {
+          "ar": "معلومات التوصيل"
+        }
+      ]
+    },
+    {
+      "textId": "PRIVACY POLICY",
+      "languageTextList": [
+        {
+          "en": "PRIVACY POLICY"
+        },
+        {
+          "ar": "سياسة الخصوصية"
+        }
+      ]
+    },
+    {
+      "textId": "Privacy Policy",
+      "languageTextList": [
+        {
+          "en": "Privacy Policy"
+        },
+        {
+          "ar": "سياسة الخصوصية"
+        }
+      ]
+    },
+    {
+      "textId": "Terms And Conditions",
+      "languageTextList": [
+        {
+          "en": "Terms And Conditions"
+        },
+        {
+          "ar": "الأحكام والشروط"
+        }
+      ]
+    },
+    {
+      "textId": "TERMS AND CONDITION",
+      "languageTextList": [
+        {
+          "en": "TERMS AND CONDITION"
+        },
+        {
+          "ar": "الأحكام والشروط"
+        }
+      ]
+    },
+    {
+      "textId": "REFUND POLICY",
+      "languageTextList": [
+        {
+          "en": "REFUND POLICY"
+        },
+        {
+          "ar": "سياسة الإسترجاع"
+        }
+      ]
+    },
+    {
+      "textId": "Refund Policy",
+      "languageTextList": [
+        {
+          "en": "Refund Policy"
+        },
+        {
+          "ar": "سياسة الإسترجاع"
+        }
+      ]
+    },
+    {
+      "textId": "No Branches Found!",
+      "languageTextList": [
+        {
+          "en": "No Branches Found!"
+        },
+        {
+          "ar": "لا يوجد أى فروع"
+        }
+      ]
+    },
+    {
+      "textId": "All Branches",
+      "languageTextList": [
+        {
+          "en": "All Branches"
+        },
+        {
+          "ar": "جميع الفروع"
+        }
+      ]
+    },
+    {
+      "textId": "Select Country",
+      "languageTextList": [
+        {
+          "en": "Select Country"
+        },
+        {
+          "ar": "حدد الدولة"
+        }
+      ]
+    },
+    {
+      "textId": "No countries available",
+      "languageTextList": [
+        {
+          "en": "No countries available"
+        },
+        {
+          "ar": "لا توجد دول متاحة"
+        }
+      ]
+    },
+    {
+      "textId": "Search For Your Country",
+      "languageTextList": [
+        {
+          "en": "Search For Your Country"
+        },
+        {
+          "ar": "إبحث عن بلدك"
+        }
+      ]
+    },
+    {
+      "textId": "Select State",
+      "languageTextList": [
+        {
+          "en": "Select State"
+        },
+        {
+          "ar": "إختر الولاية"
+        }
+      ]
+    },
+    {
+      "textId": "No States available",
+      "languageTextList": [
+        {
+          "en": "No States available"
+        },
+        {
+          "ar": "لا توجد دول متاحة"
+        }
+      ]
+    },
+    {
+      "textId": "Search For Your State",
+      "languageTextList": [
+        {
+          "en": "Search For Your State"
+        },
+        {
+          "ar": "إبحث عن دولتك"
+        }
+      ]
+    },
+    {
+      "textId": "Saved Addresses",
+      "languageTextList": [
+        {
+          "en": "Saved Addresses"
+        },
+        {
+          "ar": "العناوين المحفظة"
+        }
+      ]
+    },
+    {
+      "textId": "No Addresses Found!",
+      "languageTextList": [
+        {
+          "en": "No Addresses Found!"
+        },
+        {
+          "ar": "لا توجد عناوين"
+        }
+      ]
+    },
+    {
+      "textId": "Add New Address",
+      "languageTextList": [
+        {
+          "en": "Add New Address"
+        },
+        {
+          "ar": "إضافة عنوان جديد"
+        }
+      ]
+    },
+    {
+      "textId": "Forget Password",
+      "languageTextList": [
+        {
+          "en": "Forget Password"
+        },
+        {
+          "ar": "نسيت كلمة السر"
+        }
+      ]
+    },
+    {
+      "textId": "EMAIL ADDRESS",
+      "languageTextList": [
+        {
+          "en": "EMAIL ADDRESS"
+        },
+        {
+          "ar": "عنوان البريد الإلكترونى"
+        }
+      ]
+    },
+    {
+      "textId": "My Addresses",
+      "languageTextList": [
+        {
+          "en": "My Addresses"
+        },
+        {
+          "ar": "عنوانينى"
+        }
+      ]
+    },
+    {
+      "textId": "Change Password",
+      "languageTextList": [
+        {
+          "en": "Change Password"
+        },
+        {
+          "ar": "تغير كلمة المرور"
+        }
+      ]
+    },
+    {
+      "textId": "Send",
+      "languageTextList": [
+        {
+          "en": "Send"
+        },
+        {
+          "ar": "إرسال"
+        }
+      ]
+    },
+    {
+      "textId": "Didn't receive?",
+      "languageTextList": [
+        {
+          "en": "Didn't receive?"
+        },
+        {
+          "ar": "لم تستلم؟"
+        }
+      ]
+    },
+    {
+      "textId": "Send Again",
+      "languageTextList": [
+        {
+          "en": "Send Again"
+        },
+        {
+          "ar": "إعد الإرسال"
+        }
+      ]
+    },
+    {
+      "textId": "Please complete the code",
+      "languageTextList": [
+        {
+          "en": "Please complete the code"
+        },
+        {
+          "ar": "من فضلك أكمل الكود"
+        }
+      ]
+    },
+    {
+      "textId": "Please enter a valid code",
+      "languageTextList": [
+        {
+          "en": "Please enter a valid code"
+        },
+        {
+          "ar": "الرجاء إدخال الكود الصحيح"
+        }
+      ]
+    },
+    {
+      "textId": "Confirmation",
+      "languageTextList": [
+        {
+          "en": "Confirmation"
+        },
+        {
+          "ar": "تأكيد"
+        }
+      ]
+    },
+    {
+      "textId": "Continue",
+      "languageTextList": [
+        {
+          "en": "Continue"
+        },
+        {
+          "ar": "إستمرار"
+        }
+      ]
+    },
+    {
+      "textId": "don't get it?",
+      "languageTextList": [
+        {
+          "en": "don't get it?"
+        },
+        {
+          "ar": "لم تستلم بعد؟"
+        }
+      ]
+    },
+    {
+      "textId": "Resend code",
+      "languageTextList": [
+        {
+          "en": "Resend code"
+        },
+        {
+          "ar": "إعادة إرسال"
+        }
+      ]
+    },
+    {
+      "textId": "Welcome",
+      "languageTextList": [
+        {
+          "en": "Welcome"
+        },
+        {
+          "ar": "مرحبا"
+        }
+      ]
+    },
+    {
+      "textId": "Login",
+      "languageTextList": [
+        {
+          "en": "Login"
+        },
+        {
+          "ar": "تسجيل دخول"
+        }
+      ]
+    },
+    {
+      "textId": "forget password?",
+      "languageTextList": [
+        {
+          "en": "forget password?"
+        },
+        {
+          "ar": "نسيت كلمة المرور"
+        }
+      ]
+    },
+    {
+      "textId": "Sign Up",
+      "languageTextList": [
+        {
+          "en": "Sign Up"
+        },
+        {
+          "ar": "إنشاء حساب"
+        }
+      ]
+    },
+    {
+      "textId": "PASSWORD",
+      "languageTextList": [
+        {
+          "en": "PASSWORD"
+        },
+        {
+          "ar": "كلمة المرور"
+        }
+      ]
+    },
+    {
+      "textId": "FULL NAME",
+      "languageTextList": [
+        {
+          "en": "FULL NAME"
+        },
+        {
+          "ar": "الإسم بالكامل"
+        }
+      ]
+    },
+    {
+      "textId": "PHONE NUMBER",
+      "languageTextList": [
+        {
+          "en": "PHONE NUMBER"
+        },
+        {
+          "ar": "رقم الهاتف"
+        }
+      ]
+    },
+    {
+      "textId": "CONFIRM PASSWORD",
+      "languageTextList": [
+        {
+          "en": "CONFIRM PASSWORD"
+        },
+        {
+          "ar": "تأكيد كلمة المرور"
+        }
+      ]
+    },
+    {
+      "textId": "Confirm",
+      "languageTextList": [
+        {
+          "en": "Confirm"
+        },
+        {
+          "ar": "تأكيد"
+        }
+      ]
+    },
+    {
+      "textId": "Country",
+      "languageTextList": [
+        {
+          "en": "Country"
+        },
+        {
+          "ar": "بلد"
+        }
+      ]
+    },
+    {
+      "textId": "State",
+      "languageTextList": [
+        {
+          "en": "State"
+        },
+        {
+          "ar": "دولة"
+        }
+      ]
+    },
+    {
+      "textId": "You must Select Country First",
+      "languageTextList": [
+        {
+          "en": "You must Select Country First"
+        },
+        {
+          "ar": "يجب تحديد الدولة أولا"
+        }
+      ]
+    },
+    {
+      "textId": "already have account?",
+      "languageTextList": [
+        {
+          "en": "already have account?"
+        },
+        {
+          "ar": "تمتلك حساب بالفعل؟"
+        }
+      ]
+    },
+    {
+      "textId": "Sign in",
+      "languageTextList": [
+        {
+          "en": "SIGN IN"
+        },
+        {
+          "ar": "تسجيل الدخول"
+        }
+      ]
+    },
+    {
+      "textId": "need an account?",
+      "languageTextList": [
+        {
+          "en": "need an account?"
+        },
+        {
+          "ar": "تحتاج لإنشاء حساب"
+        }
+      ]
+    },
+    {
+      "textId": "km",
+      "languageTextList": [
+        {
+          "en": "km"
+        },
+        {
+          "ar": "كم"
+        }
+      ]
+    },
+    {
+      "textId": "Top Branch",
+      "languageTextList": [
+        {
+          "en": "Top Branch"
+        },
+        {
+          "ar": "أعلى تقييم"
+        }
+      ]
+    },
+    {
+      "textId": "Cart View",
+      "languageTextList": [
+        {
+          "en": "Cart View"
+        },
+        {
+          "ar": "عربة التسوق"
+        }
+      ]
+    },
+    {
+      "textId": "Not Available",
+      "languageTextList": [
+        {
+          "en": "Not Available"
+        },
+        {
+          "ar": "غير متوفر"
+        }
+      ]
+    },
+    {
+      "textId": "Available In Another Branch",
+      "languageTextList": [
+        {
+          "en": "Available In Another Branch"
+        },
+        {
+          "ar": "متوفر فى فرع أخر"
+        }
+      ]
+    },
+    {
+      "textId": "Clear Cart",
+      "languageTextList": [
+        {
+          "en": "Clear Cart"
+        },
+        {
+          "ar": "محو السلة"
+        }
+      ]
+    },
+    {
+      "textId": "Check Out",
+      "languageTextList": [
+        {
+          "en": "Check Out"
+        },
+        {
+          "ar": "الدفع"
+        }
+      ]
+    },
+    {
+      "textId": "Total",
+      "languageTextList": [
+        {
+          "en": "Total"
+        },
+        {
+          "ar": "المجموع"
+        }
+      ]
+    },
+    {
+      "textId": "Taxes",
+      "languageTextList": [
+        {
+          "en": "Taxes"
+        },
+        {
+          "ar": "ضرائب"
+        }
+      ]
+    },
+    {
+      "textId": "Subtotal",
+      "languageTextList": [
+        {
+          "en": "Subtotal"
+        },
+        {
+          "ar": "المجموع"
+        }
+      ]
+    },
+    {
+      "textId": "Add To Cart",
+      "languageTextList": [
+        {
+          "en": "Add To Cart"
+        },
+        {
+          "ar": "أضف إلى العربة"
+        }
+      ]
+    },
+    {
+      "textId": "Not Available in any branch",
+      "languageTextList": [
+        {
+          "en": "Not Available in any branch"
+        },
+        {
+          "ar": "غير متوفر فى الفروع"
+        }
+      ]
+    },
+    {
+      "textId": "Available In Another Branch\nclear cart to add this product",
+      "languageTextList": [
+        {
+          "en": "Available In Another Branch\nclear cart to add this product"
+        },
+        {
+          "ar": "متوفر فى فرع غير المختار فى عربة التسوق\n مسح عربة التسوق"
+        }
+      ]
+    },
+    {
+      "textId": "small amount",
+      "languageTextList": [
+        {
+          "en": "small amount"
+        },
+        {
+          "ar": "كمية قليلة"
+        }
+      ]
+    },
+    {
+      "textId": "Amount",
+      "languageTextList": [
+        {
+          "en": "Amount"
+        },
+        {
+          "ar": "كمية"
+        }
+      ]
+    },
+    {
+      "textId": "available",
+      "languageTextList": [
+        {
+          "en": "available"
+        },
+        {
+          "ar": "متوفر"
+        }
+      ]
+    },
+    {
+      "textId": "All Categories",
+      "languageTextList": [
+        {
+          "en": "All Categories"
+        },
+        {
+          "ar": "جميع الأقسام"
+        }
+      ]
+    },
+    {
+      "textId": "No Categories Found!",
+      "languageTextList": [
+        {
+          "en": "No Categories Found!"
+        },
+        {
+          "ar": "لا توجد أقسام"
+        }
+      ]
+    },
+    {
+      "textId": "No Products yet!",
+      "languageTextList": [
+        {
+          "en": "No Products yet!"
+        },
+        {
+          "ar": "لا توجد منتجات"
+        }
+      ]
+    },
+    {
+      "textId": "No Data Found!",
+      "languageTextList": [
+        {
+          "en": "No Data Found!"
+        },
+        {
+          "ar": "لا توجد بيانات"
+        }
+      ]
+    },
+    {
+      "textId": "SEE ALL",
+      "languageTextList": [
+        {
+          "en": "SEE ALL"
+        },
+        {
+          "ar": "عرض الكل"
+        }
+      ]
+    },
+    {
+      "textId": "Location",
+      "languageTextList": [
+        {
+          "en": "Location"
+        },
+        {
+          "ar": "الموقع"
+        }
+      ]
+    },
+    {
+      "textId": "PHONE",
+      "languageTextList": [
+        {
+          "en": "PHONE"
+        },
+        {
+          "ar": "الهاتف"
+        }
+      ]
+    },
+    {
+      "textId": "Phone",
+      "languageTextList": [
+        {
+          "en": "Phone"
+        },
+        {
+          "ar": "الهاتف"
+        }
+      ]
+    },
+    {
+      "textId": "E-mail",
+      "languageTextList": [
+        {
+          "en": "E-mail"
+        },
+        {
+          "ar": "عنوان البريد الإلكترونى"
+        }
+      ]
+    },
+    {
+      "textId": "Social Media",
+      "languageTextList": [
+        {
+          "en": "Social Media"
+        },
+        {
+          "ar": "وسائل التواصل الإجتماعى"
+        }
+      ]
+    },
+    {
+      "textId": "Website",
+      "languageTextList": [
+        {
+          "en": "Website"
+        },
+        {
+          "ar": "الموقع الإلكترونى"
+        }
+      ]
+    },
+    {
+      "textId": "Twitter",
+      "languageTextList": [
+        {
+          "en": "Twitter"
+        },
+        {
+          "ar": "تويتر"
+        }
+      ]
+    },
+    {
+      "textId": "Facebook",
+      "languageTextList": [
+        {
+          "en": "Facebook"
+        },
+        {
+          "ar": "فيس بوك"
+        }
+      ]
+    },
+    {
+      "textId": "LinkedIn",
+      "languageTextList": [
+        {
+          "en": "LinkedIn"
+        },
+        {
+          "ar": "لينكد إن"
+        }
+      ]
+    },
+    {
+      "textId": "Youtube",
+      "languageTextList": [
+        {
+          "en": "Youtube"
+        },
+        {
+          "ar": "يوتيوب"
+        }
+      ]
+    },
+    {
+      "textId": "Instagram",
+      "languageTextList": [
+        {
+          "en": "Instagram"
+        },
+        {
+          "ar": "إنستجرام"
+        }
+      ]
+    },
+    {
+      "textId": "No Faq Found!",
+      "languageTextList": [
+        {
+          "en": "No Faq Found!"
+        },
+        {
+          "ar": "لا توجد أسالة شائعة"
+        }
+      ]
+    },
+    {
+      "textId": "Favourite List",
+      "languageTextList": [
+        {
+          "en": "Favourite List"
+        },
+        {
+          "ar": "قائمة العناصر المفضلة"
+        }
+      ]
+    },
+    {
+      "textId": "No Items Found!",
+      "languageTextList": [
+        {
+          "en": "No Items Found!"
+        },
+        {
+          "ar": "لا توجد عناصر"
+        }
+      ]
+    },
+    {
+      "textId": "Internet Connection Error!",
+      "languageTextList": [
+        {
+          "en": "'Internet Connection Error!'"
+        },
+        {
+          "ar": "خطأ فى الاتصال بالانترنت"
+        }
+      ]
+    },
+    {
+      "textId": "Try Again",
+      "languageTextList": [
+        {
+          "en": "Try Again"
+        },
+        {
+          "ar": "حاول مجددا"
+        }
+      ]
+    },
+    {
+      "textId": "You Must Sign In To Allow You To Enter This Page",
+      "languageTextList": [
+        {
+          "en": "You Must Sign In To Allow You To Enter This Page"
+        },
+        {
+          "ar": "يجب عليك تسجيل الدخول للسماح لك بالدخول إلى هذه الصفحة"
+        }
+      ]
+    },
+    {
+      "textId": "Go To Home Page",
+      "languageTextList": [
+        {
+          "en": "Go To Home Page"
+        },
+        {
+          "ar": "الذهاب إلى الصفحة الرئيسية"
+        }
+      ]
+    },
+    {
+      "textId": "Access Denied!",
+      "languageTextList": [
+        {
+          "en": "Access Denied!"
+        },
+        {
+          "ar": "طلب مرفوض"
+        }
+      ]
+    },
+    {
+      "textId": "Welcome",
+      "languageTextList": [
+        {
+          "en": "Welcome"
+        },
+        {
+          "ar": "مرحبا"
+        }
+      ]
+    },
+    {
+      "textId": "Go Back To Continue",
+      "languageTextList": [
+        {
+          "en": "Go Back To Continue"
+        },
+        {
+          "ar": "العودة للمتابعة"
+        }
+      ]
+    },
+    {
+      "textId": "Notifications",
+      "languageTextList": [
+        {
+          "en": "Notifications"
+        },
+        {
+          "ar": "الإشعارات"
+        }
+      ]
+    },
+    {
+      "textId": "Reviews",
+      "languageTextList": [
+        {
+          "en": "Reviews"
+        },
+        {
+          "ar": "المراجعات"
+        }
+      ]
+    },
+    {
+      "textId": "No Notifications Found!",
+      "languageTextList": [
+        {
+          "en": "No Notifications Found!"
+        },
+        {
+          "ar": "لا توجد إشعارات"
+        }
+      ]
+    },
+    {
+      "textId": "Description",
+      "languageTextList": [
+        {
+          "en": "Description"
+        },
+        {
+          "ar": "الوصف"
+        }
+      ]
+    },
+    {
+      "textId": "Payment View",
+      "languageTextList": [
+        {
+          "en": "Payment View"
+        },
+        {
+          "ar": "شاشة الدفع"
+        }
+      ]
+    },
+    {
+      "textId": "USER NAME",
+      "languageTextList": [
+        {
+          "en": "USER NAME"
+        },
+        {
+          "ar": "إسم المستخدم"
+        }
+      ]
+    },
+    {
+      "textId": "Edit Account",
+      "languageTextList": [
+        {
+          "en": "Edit Account"
+        },
+        {
+          "ar": "تعديل بيانات الحساب"
+        }
+      ]
+    },
+    {
+      "textId": "Your Rating",
+      "languageTextList": [
+        {
+          "en": "Your Rating"
+        },
+        {
+          "ar": "تقييمك"
+        }
+      ]
+    },
+    {
+      "textId": "Write a Review",
+      "languageTextList": [
+        {
+          "en": "Write a Review"
+        },
+        {
+          "ar": "أكتب تعليقك"
+        }
+      ]
+    },
+    {
+      "textId": "Submit",
+      "languageTextList": [
+        {
+          "en": "Submit"
+        },
+        {
+          "ar": "إرسال"
+        }
+      ]
+    },
+    {
+      "textId": "Write Your Review Here",
+      "languageTextList": [
+        {
+          "en": "Write Your Review Here"
+        },
+        {
+          "ar": "أكتب تقييمك هنا"
+        }
+      ]
+    },
+    {
+      "textId": "Your Review",
+      "languageTextList": [
+        {
+          "en": "Your Review"
+        },
+        {
+          "ar": "تقييمك"
+        }
+      ]
+    },
+    {
+      "textId": "No Reviews Found!",
+      "languageTextList": [
+        {
+          "en": "No Reviews Found!"
+        },
+        {
+          "ar": "لا توجد مراجعات بعد"
+        }
+      ]
+    },
+    {
+      "textId": "Review",
+      "languageTextList": [
+        {
+          "en": "Review"
+        },
+        {
+          "ar": "تقييم"
+        }
+      ]
+    },
+    {
+      "textId": "Reset Password",
+      "languageTextList": [
+        {
+          "en": "Reset Password"
+        },
+        {
+          "ar": "إعادة تعيين كلمة المرور"
+        }
+      ]
+    },
+    {
+      "textId": "Old Password",
+      "languageTextList": [
+        {
+          "en": "Old Password"
+        },
+        {
+          "ar": "كلمة المرور القديمة"
+        }
+      ]
+    },
+    {
+      "textId": "New Password",
+      "languageTextList": [
+        {
+          "en": "New Password"
+        },
+        {
+          "ar": "كلمة المرور الجديدة"
+        }
+      ]
+    },
+    {
+      "textId": "Save",
+      "languageTextList": [
+        {
+          "en": "Save"
+        },
+        {
+          "ar": "حفظ"
+        }
+      ]
+    },
+    {
+      "textId": "Unknown Exception",
+      "languageTextList": [
+        {
+          "en": "Unknown Exception"
+        },
+        {
+          "ar": "حدث خطأ غير متوقع"
+        }
+      ]
+    },
+    {
+      "textId": "Check Order",
+      "languageTextList": [
+        {
+          "en": "Check Order"
+        },
+        {
+          "ar": "مراجعة الطلب"
+        }
+      ]
+    },
+    {
+      "textId": "Orders",
+      "languageTextList": [
+        {
+          "en": "Orders"
+        },
+        {
+          "ar": "طلباتى"
+        }
+      ]
+    },
+    {
+      "textId": "No Orders Found!",
+      "languageTextList": [
+        {
+          "en": "No Orders Found!"
+        },
+        {
+          "ar": "لا توجد طلبات!"
+        }
+      ]
+    },
+    {
+      "textId": "My Order",
+      "languageTextList": [
+        {
+          "en": "My Order"
+        },
+        {
+          "ar": "طلبى"
+        }
+      ]
+    }
+  ]
+}

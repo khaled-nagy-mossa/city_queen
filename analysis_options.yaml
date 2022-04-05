@@ -1,0 +1,27 @@
+#lint ##############################################################################################
+include: package:lint/analysis_options.yaml
+
+
+#pedantic ##########################################################################################
+#include: package:pedantic/analysis_options.yaml
+#analyzer:
+#  exclude:
+#
+#linter:
+#  rules:
+#    - camel_case_types
+#    - library_names
+
+
+
+#effective_dart ####################################################################################
+#include: package:effective_dart/analysis_options.yaml
+#
+#analyzer:
+#  errors:
+#    todo: ignore
+#
+#  strong-mode:
+#    implicit-casts: false
+#    implicit-dynamic: false
+
